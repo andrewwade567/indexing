@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://andrewwade567.github.io/indexing/sitemap.xml
